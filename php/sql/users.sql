@@ -1,0 +1,1 @@
+CREATE TABLE `voters`.`users` ( `id` INT NOT NULL AUTO_INCREMENT , `matric_no` VARCHAR(30) NOT NULL , `name` VARCHAR(200) NOT NULL , `email` VARCHAR(200) NOT NULL , `password` VARCHAR(200) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;

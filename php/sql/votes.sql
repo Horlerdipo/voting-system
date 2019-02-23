@@ -1,0 +1,1 @@
+CREATE TABLE `voters`.`votes` ( `id` INT NOT NULL AUTO_INCREMENT , `atiku` VARCHAR(200) NOT NULL , `buhari` VARCHAR(200) NOT NULL , `ezekwezili` VARCHAR(200) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
